@@ -27,7 +27,7 @@ export function buildOrganizationSchema() {
     name: SITE_NAME,
     url: SITE_URL,
     logo: `${SITE_URL}/icon-512.png`,
-    sameAs: ['https://github.com/sagrkv/Thakkadi'],
+    sameAs: ['https://github.com/a1filtercoffee/Thakkadi'],
   };
 }
 

@@ -41,7 +41,7 @@ export default function FeedbackForm() {
     const category = TYPES.find((item) => item.value === type)!.label;
     const tool = CALCULATORS.find((item) => item.value === calculator)!.label;
     const params = new URLSearchParams({ title: `${category}: ${tool}`, body: `Calculator: ${tool}\n\n${message.trim()}` });
-    setDraftUrl(`https://github.com/sagrkv/Thakkadi/issues/new?${params}`);
+    setDraftUrl(`https://github.com/a1filtercoffee/Thakkadi/issues/new?${params}`);
   }
 
   return (

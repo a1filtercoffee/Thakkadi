@@ -169,7 +169,7 @@ export default function PrivacyPage() {
           </p>
           <p style={{ marginTop: '0.75rem' }}>
             <a
-              href="https://github.com/sagrkv/Thakkadi"
+              href="https://github.com/a1filtercoffee/Thakkadi"
               target="_blank"
               rel="noopener noreferrer"
               style={{

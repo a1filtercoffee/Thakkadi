@@ -193,7 +193,7 @@ export default function TermsPage() {
             and official state gazette notifications. If you find a discrepancy
             between a Thakkadi calculation and the governing statute, please{' '}
             <a
-              href="https://github.com/sagrkv/Thakkadi/issues"
+              href="https://github.com/a1filtercoffee/Thakkadi/issues"
               target="_blank"
               rel="noopener noreferrer"
               style={{
