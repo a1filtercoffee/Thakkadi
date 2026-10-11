@@ -61,7 +61,7 @@ export default function FeedbackPage() {
           <p>
             Developer?{' '}
             <a
-              href="https://github.com/sagrkv/Thakkadi/issues"
+              href="https://github.com/a1filtercoffee/Thakkadi/issues"
               target="_blank"
               rel="noopener noreferrer"
               className="feedback-dev-link"

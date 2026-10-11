@@ -282,7 +282,7 @@ export default function AboutPage() {
             or submit a pull request.
           </p>
           <a
-            href="https://github.com/sagrkv/Thakkadi"
+            href="https://github.com/a1filtercoffee/Thakkadi"
             target="_blank"
             rel="noopener noreferrer"
             className="btn btn-ghost"
